@@ -1,0 +1,8 @@
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\bin\Debug\ConsoleException.exe
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\bin\Debug\ConsoleException.pdb
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\obj\Debug\ConsoleException.exe
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\obj\Debug\ConsoleException.pdb
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\bin\Debug\log4net.dll
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\bin\Debug\log4net.xml
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\obj\Debug\ConsoleException.csprojResolveAssemblyReference.cache
+D:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\bin\Debug\log4net.config

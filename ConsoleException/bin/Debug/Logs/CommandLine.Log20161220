@@ -1,0 +1,8 @@
+*INFO       2016-12-20 21:59:47,088        Start [ConsoleException.Program] [9] 
+*DEBUG      2016-12-20 21:59:47,120           at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at ConsoleException.Program.TestReThrowEx(Decimal a, Decimal b) in d:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\Program.cs:line 41 [ConsoleException.Program] [9] 
+*ERROR      2016-12-20 21:59:47,129           at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at ConsoleException.Program.TestReThrowEx(Decimal a, Decimal b) in d:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\Program.cs:line 46
+   at ConsoleException.Program.Main(String[] args) in d:\10DebuggingSoft\05DebuggingSoft_BlogData\DS_Blog201612\20161215-C#Exception\ConsoleException\ConsoleException\Program.cs:line 22 [ConsoleException.Program] [9] 
